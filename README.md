@@ -10,7 +10,7 @@ I'm a highschool sophomore with a few interests:
 ## Projects
 ### Actively Maintained
 - [My website](https://github.com/skylvie/website) - Rewrite planned...
-- [Veyl](https://github.com/skylvie/Veyl) - A custom-made JS/TS obfuscation tool made for my AP CSP create task
+- [Veyl](https://github.com/skylvie/Veyl) - A complete and customizable JavaScript and TypeScript obfuscation utility
 
 ### Finished
 - [DLj](https://github.com/skylvie/DLj) - A CLI to download & decrypt PS Vita & PSP games like [PKGj](https://github.com/blastrock/pkgj) 
