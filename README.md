@@ -18,6 +18,7 @@ I'm a highschool sophomore with a few interests:
 - [gh2fj](https://github.com/skylvie/gh2fj) - A Node script to mirror GitHub users and/or organizations to a Forgejo server
 - [Eden](https://github.com/skylvie/Eden) - A Node script to extract and download [Edulastic](https://app.edulastic.com/) via source maps and JS bundles
 - [DC-Bypass](https://github.com/skylvie/DC-Bypass) - A Chrome extension to bypass [Double Counter](https://doublecounter.gg/) verification
+- [Syringe](https://github.com/skylvie/syringe) - A CLI for injecting text file contents into JS strings
 - [Caesar](https://github.com/skylvie/Caesar) - A CLI for working with `asar` archives
 
 ### Unmaintained / Archived
