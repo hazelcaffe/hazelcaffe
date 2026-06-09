@@ -1,15 +1,9 @@
 # Hi, I'm Hazel!
-I'm a highschool junior with a few interests:
-- Frontend & backend web development
-- IT & system administration
-  - Homelabbing
-- Cybersecurity
-- (JS & Malware) Reverse engineering
-- Robotics (FIRST/FRC)
+I'm a highschool junior with a few interests. You can learn more about me at https://qwq.sh
 
 ## Projects
 ### Actively Maintained
-- [My website](https://github.com/hazelcaffe/website) - Rewrite planned...
+- [My website](https://github.com/hazelcaffe/new-website) - I'm really proud of it!
 - [Veyl](https://github.com/hazelcaffe/Veyl) - A complete and customizable JavaScript and TypeScript obfuscation utility
 
 ### Finished
