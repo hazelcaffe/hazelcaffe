@@ -4,11 +4,14 @@ I'm a highschool junior with a few interests. You can learn more about me at htt
 ## Projects
 ### Actively Maintained
 - [My website](https://github.com/hazelcaffe/new-website) - I'm really proud of it!
-- [Veyl](https://github.com/hazelcaffe/Veyl) - A complete and customizable JavaScript and TypeScript obfuscation utility
+- [paip-sdk](https://github.com/hazelcaffe/paip-sdk) - An unofficial TS SDK for querying language models through the Palantir Foundry AIP LLM Proxy
+- [paip-agent-sdk](https://github.com/hazelcaffe/paip-agent-sdk) - An unofficial TS agent SDK for Palantir Foundry AIP LLM Proxy models
 
 ### Finished
+- [Veyl](https://github.com/hazelcaffe/Veyl) - A complete and customizable JavaScript and TypeScript obfuscation utility
 - [DLj](https://github.com/hazelcaffe/DLj) - A CLI to download & decrypt PS Vita & PSP games like [PKGj](https://github.com/blastrock/pkgj) 
 - [RokuCLI](https://github.com/hazelcaffe/RokuCLI) - A CLI written in Bash to remotely control a Roku device via its ECP server
+- [Pickle](https://github.com/hazelcaffe/pickle) - A remote, platform-independent, dog clicker
 - [gh2fj](https://github.com/hazelcaffe/gh2fj) - A Node script to mirror GitHub users and/or organizations to a Forgejo server
 - [Eden](https://github.com/hazelcaffe/Eden) - A Node script to extract and download [Edulastic](https://app.edulastic.com/) via source maps and JS bundles
 - [DC-Bypass](https://github.com/hazelcaffe/DC-Bypass) - A Chrome extension to bypass [Double Counter](https://doublecounter.gg/) verification
