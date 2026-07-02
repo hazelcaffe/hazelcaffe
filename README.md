@@ -5,8 +5,7 @@ I'm a highschool junior with a few interests. You can learn more about me at htt
 ### Actively Maintained
 - [My website](https://github.com/hazelcaffe/new-website) - I'm really proud of it!
 - [paip-openai-api](https://github.com/hazelcaffe/paip-openai-api) - OpenAI-compatible API backed by the Palantir AIP LLM Proxy
-- [paip-sdk](https://github.com/hazelcaffe/paip-sdk) - A TypeScript SDK for querying language models through the Palantir Foundry AIP LLM Proxy
-- [paip-agent-sdk](https://github.com/hazelcaffe/paip-agent-sdk) - A TypeScript agent SDK for Palantir Foundry AIP LLM Proxy models
+- [paip-model-test](https://github.com/hazelcaffe/paip-model-test) - A model testsuite for seeing which models are available for use over the Palantir AIP LLM Proxy
 
 ### Finished
 - [Veyl](https://github.com/hazelcaffe/Veyl) - A complete and customizable JavaScript and TypeScript obfuscation utility
