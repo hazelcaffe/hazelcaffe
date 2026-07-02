@@ -4,6 +4,7 @@ I'm a highschool junior with a few interests. You can learn more about me at htt
 ## Projects
 ### Actively Maintained
 - [My website](https://github.com/hazelcaffe/new-website) - I'm really proud of it!
+- [Piper](https://github.com/hazelcaffe/piper) - Fork of Opencode to support Palantir AIP (via LLM Proxy) natively
 - [paip-openai-api](https://github.com/hazelcaffe/paip-openai-api) - OpenAI-compatible API backed by the Palantir AIP LLM Proxy
 - [paip-model-test](https://github.com/hazelcaffe/paip-model-test) - A model testsuite for seeing which models are available for use over the Palantir AIP LLM Proxy
 
