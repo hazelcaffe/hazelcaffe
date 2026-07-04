@@ -4,6 +4,7 @@ I'm a highschool junior with a few interests. You can learn more about me at htt
 ## Projects
 ### Actively Maintained
 - [My website](https://github.com/hazelcaffe/new-website) - I'm really proud of it!
+- [nixos-config](https://github.com/hazelcaffe/nixos-config) - My NixOS configs
 - [Veyl](https://github.com/hazelcaffe/Veyl) - A complete and customizable JavaScript and TypeScript obfuscation utility
 - [Piper](https://github.com/hazelcaffe/piper) - Fork of Opencode to support Palantir AIP (via LLM Proxy) natively
 - [Juniper](https://github.com/hazelcaffe/Juniper) - OpenAI-compatible API backed by the Palantir AIP LLM Proxy
