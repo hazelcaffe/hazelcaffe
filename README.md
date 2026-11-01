@@ -1,13 +1,15 @@
 # Hi, I'm Hazel!
-I'm a highschool junior with a few interests. You can learn more about me at https://qwq.sh
+todo
 
 ## Projects
 ### Actively Maintained
-- [My website](https://github.com/hazelcaffe/new-website) - I'm really proud of it!
-- [nixos-config](https://github.com/hazelcaffe/nixos-config) - My NixOS configs
-- [Veyl](https://github.com/hazelcaffe/Veyl) - A complete and customizable JavaScript and TypeScript obfuscation utility
+- [My website](https://github.com/hazelcaffe/new-website) - outdated !!!
+- [Aether](https://aetheron.top/) - Good looking webproxy
+- [Yuri Systems LLC](https://yuri.llc/) - Privacy-first online services for everyone
+- [AS218890](https://bgp.tools/as/218890) - My own ASN!!
 
 ### Finished
+- [Veyl](https://github.com/hazelcaffe/Veyl) - A complete and customizable JavaScript and TypeScript obfuscation utility
 - [DLj](https://github.com/hazelcaffe/DLj) - A CLI to download & decrypt PS Vita & PSP games like [PKGj](https://github.com/blastrock/pkgj) 
 - [RokuCLI](https://github.com/hazelcaffe/RokuCLI) - A CLI written in Bash to remotely control a Roku device via its ECP server
 - [9flare](https://github.com/hazelcaffe/9flare) - A small (IPv4-only) DDNS client for CloudFlare
@@ -19,7 +21,6 @@ I'm a highschool junior with a few interests. You can learn more about me at htt
 - [Caesar](https://github.com/hazelcaffe/Caesar) - A CLI for working with `asar` archives
 
 ### Unmaintained / Archived
-- [qwq.sh](https://github.com/hazelcaffe/qwq.sh) qwq.sh was a project providing free and privacy-focused services to everyone
 - [Mars](https://github.com/hazelcaffe/Mars) - A framework for making your own DaaS products like [Kasm](https://kasm.com/)
 - [Fluxis](https://github.com/hazelcaffe/Fluxis) - A Discord selfbot for bridging two groupd DMs together, because the 10 member limit is stupid
 - [10z](https://github.com/hazelcaffe/10z) - A recreation of the Tenzi dice game made for a programming competition
