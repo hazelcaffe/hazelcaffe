@@ -1,5 +1,6 @@
 # Hi, I'm Hazel!
 #### https://qwq.sh/ ^-^
+![](https://github-stats-extended.vercel.app/api?username=hazelcaffe)
 ---
 > *It's clear that the odds are stacked against you\
 > And the chances of success seem slim\
