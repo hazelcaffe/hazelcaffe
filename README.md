@@ -1,10 +1,12 @@
 # Hi, I'm Hazel!
 #### https://qwq.sh/ ^-^
 ---
-*It's clear that the odds are stacked against you\
-And the chances of success seem slim\
-So tell me, what are you going to do?\
-I'm going to win* - **[joplin](https://soundcloud.com/lexycat2005/joplin) — [heartstrings](https://lexycat.bandcamp.com/album/heartstrings), [lexycat](https://www.youtube.com/@lexycat) (2025)**
+> *It's clear that the odds are stacked against you\
+> And the chances of success seem slim\
+> So tell me, what are you going to do?\
+> I'm going to win*
+
+**[joplin](https://soundcloud.com/lexycat2005/joplin) — [heartstrings](https://lexycat.bandcamp.com/album/heartstrings), [lexycat](https://www.youtube.com/@lexycat) (2025)**
 
 ## Projects
 ### Actively Maintained
