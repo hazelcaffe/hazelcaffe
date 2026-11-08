@@ -4,19 +4,20 @@ todo
 ## Projects
 ### Actively Maintained
 - [My website](https://github.com/hazelcaffe/new-website) - outdated !!!
-- [Aether](https://aetheron.top/) - Good looking webproxy
-- [Yuri Systems LLC](https://yuri.llc/) - Privacy-first online services for everyone
+- [Wonderhoy Labs](https://github.com/wonderhoy-labs) - A collection of cool software for Android
 - [AS218890](https://bgp.tools/as/218890) - My own ASN!!
+- [Yuri Systems LLC](https://yuri.llc/) - Privacy-first online services for everyone
+- [Aether](https://aetheron.top/) - Good looking webproxy
 
 ### Finished
 - [Veyl](https://github.com/hazelcaffe/Veyl) - A complete and customizable JavaScript and TypeScript obfuscation utility
 - [DLj](https://github.com/hazelcaffe/DLj) - A CLI to download & decrypt PS Vita & PSP games like [PKGj](https://github.com/blastrock/pkgj) 
 - [RokuCLI](https://github.com/hazelcaffe/RokuCLI) - A CLI written in Bash to remotely control a Roku device via its ECP server
 - [9flare](https://github.com/hazelcaffe/9flare) - A small (IPv4-only) DDNS client for CloudFlare
+- [DC-Bypass](https://github.com/hazelcaffe/DC-Bypass) - A Chrome extension to bypass [Double Counter](https://doublecounter.gg/) verification
 - [gh2fj](https://github.com/hazelcaffe/gh2fj) - A Node script to mirror GitHub users and/or organizations to a Forgejo server
 - [sync-forgejo](https://github.com/hazelcaffe/sync-forgejo) - Sync external users and Git repo's to a Forgejo instance
 - [Eden](https://github.com/hazelcaffe/Eden) - A Node script to extract and download [Edulastic](https://app.edulastic.com/) via source maps and JS bundles
-- [DC-Bypass](https://github.com/hazelcaffe/DC-Bypass) - A Chrome extension to bypass [Double Counter](https://doublecounter.gg/) verification
 - [Syringe](https://github.com/hazelcaffe/syringe) - A CLI for injecting text file contents into JS strings
 - [Caesar](https://github.com/hazelcaffe/Caesar) - A CLI for working with `asar` archives
 
